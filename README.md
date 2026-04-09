@@ -1,3 +1,4 @@
+
 # 🔍 Industrial Defect Detection
 
 This project presents a hybrid CNN + XGBoost model for classifying industrial surface defects.
@@ -19,3 +20,7 @@ CNN → Feature Extraction → XGBoost → Prediction
 ## ▶️ Run
 ```bash
 python src/train.py
+=======
+# industrial-defect-detection
+ Hybrid CNN + XGBoost for industrial defect classification
+
